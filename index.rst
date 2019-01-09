@@ -10,6 +10,8 @@ Welcome to Roum's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   api/roum
+
 
 
 Indices and tables
