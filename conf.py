@@ -208,4 +208,4 @@ intersphinx_mapping = {'python': ('https://docs.python.org/3.5', None),
 # -- Options for todo extension ----------------------------------------------
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = not on_rtd  # Prevents TODOs from being included in the "production" documentation
+todo_include_todos = True

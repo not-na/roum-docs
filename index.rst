@@ -10,8 +10,21 @@ Welcome to Roum's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   api/roum
+   intro
+   guides/index
 
+   format/index
+
+   protospec/index
+
+   api/roum
+   events
+   commands
+   pluginref/index
+
+   contributing
+
+   glossary
 
 
 Indices and tables
