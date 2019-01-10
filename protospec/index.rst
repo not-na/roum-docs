@@ -57,23 +57,23 @@ Packets
 .. toctree::
    :maxdepth: 1
 
+   packets/packet_match_entity_create
+   packets/packet_match_entity_remove
+   packets/packet_match_entity_takedamage
+   packets/packet_match_entity_update
+   packets/packet_match_entity_update_pos
+
+   packets/packet_match_player_takedamage
+   packets/packet_match_player_update
+   packets/packet_match_player_update_pos
+
+   packets/packet_match_sfx_play
+
    packets/packet_match_status_update
    packets/packet_match_synchronise_time
 
-   packets/packet_match_player_update_pos
-   packets/packet_match_entity_update_pos
-
-   packets/packet_match_player_update
-   packets/packet_match_player_takedamage
-
-   packets/packet_match_entity_create
-   packets/packet_match_entity_update
-   packets/packet_match_entity_takedamage
-   packets/packet_match_entity_remove
-
-   packets/packet_match_sfx_play
-   packets/packet_match_vfx_particle
    packets/packet_match_vfx_effect
+   packets/packet_match_vfx_particle
 
 ``chat`` Connection Mode
 """"""""""""""""""""""""
@@ -81,6 +81,6 @@ Packets
 .. toctree::
    :maxdepth: 1
 
-   packets/packet_chat_message
    packets/packet_chat_channel_subscribe
    packets/packet_chat_channel_unsubscribe
+   packets/packet_chat_message

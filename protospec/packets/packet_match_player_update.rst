@@ -27,7 +27,7 @@ Structure
 
 Note that all examples shown here contain placeholder data and will have different content in actual packets.
 
-The structure of this packet is similar to :doc:`.rop - Player Format` but does not contain all keys
+The structure of this packet is similar to :doc:`/format/player_data` but does not contain all keys
 
 .. todo::
    Specify the attributes of :py:class:`roum.Player`

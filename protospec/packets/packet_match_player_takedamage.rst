@@ -53,7 +53,7 @@ Structure of ``component`` values:::
    }
 
 .. todo::
-Add list for components (And how do they even work?)
+   Add list for components (And how do they even work?)
 
 ``amount`` indicates the amount of damage the specified component took. ``type`` indicates the
 :term:`type <damage type>` of the damage.

@@ -32,7 +32,7 @@ Note that all examples shown here contain placeholder data and will have differe
    "status":{...}
    }
 
-The ``time`` is the timestamp in :term:`game ticks`\ , at which the ``status`` was updated.
+The ``time`` is the timestamp in :term:`game ticks <game tick>`\ , at which the ``status`` was updated.
 Here, the ``time`` is the serverside time.
 
 ``status`` Structure

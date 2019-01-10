@@ -26,9 +26,9 @@ update flag that will trigger the necessary updates as soon as they get close en
 Structure
 ---------
 
-Note that all examples shown here contain placeholder data and will have different content in actual packets.::
+Note that all examples shown here contain placeholder data and will have different content in actual packets.
 
-he structure of this packet is similar to :doc:`.roe - Entity Format` but does not contain all keys
+The structure of this packet is similar to :doc:`/format/entity_data` but does not contain all keys
 
 .. todo::
    Specify the attributes of :py:class:`roum.Entity`

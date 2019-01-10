@@ -34,5 +34,5 @@ Note that all examples shown here contain placeholder data and will have differe
    "position":(531.25, 133.39, 927.78)
    }
 
-The ``time`` is the timestamp in :term:`game ticks`\ , at which the ``player`` was at the specified ``position``\ .
+The ``time`` is the timestamp in :term:`game ticks <game tick>`\ , at which the ``player`` was at the specified ``position``\ .
 Here, the ``time`` is the clientside time of the ``player``\ , not the serverside game time.

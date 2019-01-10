@@ -4,7 +4,7 @@
 
 .. roum:packet:: roum:match.synchronise.time
 
-This packet is used to synchronise the clientside and serverside :term:`game ticks`\ .
+This packet is used to synchronise the clientside and serverside :term:`game ticks <game tick>`\ .
 
 +-----------------------+--------------------------------------------+
 |Internal Name          |:roum:packet:`roum:match.synchronise.time`  |
@@ -19,7 +19,7 @@ This packet is used to synchronise the clientside and serverside :term:`game tic
 Purpose
 -------
 
-This packet is intended to synchronise the inferior clientside :term:`game ticks` to the superior serverside game ticks.
+This packet is intended to synchronise the inferior clientside :term:`game ticks <game tick>` to the superior serverside game ticks.
 This synchronisation occurs each second (60 game ticks) and is sent to all players.
 
 Structure
@@ -31,4 +31,4 @@ Note that all examples shown here contain placeholder data and will have differe
    "time":8345
    }
 
-The ``time`` is the serverside time in :term:`game ticks`\ .
+The ``time`` is the serverside time in :term:`game ticks <game tick>`\ .
