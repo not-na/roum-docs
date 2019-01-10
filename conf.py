@@ -15,7 +15,7 @@
 import os
 import sys
 import shlex
-# sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('.'))
 sys.is_autodoc = True
 sys.path.insert(0, os.path.abspath("../roum"))
 
@@ -48,6 +48,7 @@ extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.imgmath',
     'sphinx.ext.viewcode',
+    "roum_ext",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
