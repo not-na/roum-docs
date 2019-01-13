@@ -17,6 +17,10 @@
 
    roum.command
    roum.command.help
+   roum.command.stop
+
+   roum.server
+   roum.server.user
 
    roum.util
    roum.util.cache

@@ -64,5 +64,9 @@ def setup(app):
                 objname = "roum Config Value",
                 indextemplate = "pair: %s; roum ConfigValue"
             ),
+            permission = dict(
+                objname = "roum Permission",
+                indextemplate = "pair: %s; roum Permission"
+            )
         )))
     return {"version":"1.0"}
