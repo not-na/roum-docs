@@ -22,6 +22,20 @@
    roum.server
    roum.server.user
 
+   roum.client
+   roum.client.gui
+   roum.client.gui.menu
+   roum.client.gui.loadingscreen
+   roum.client.gui.settings
+   roum.client.gui.lobby
+   roum.client.gui.ingame
+
+   roum.model
+   roum.model.match
+   roum.model.player
+   roum.model.entity
+   roum.model.component
+
    roum.util
    roum.util.cache
    roum.util.serializer
