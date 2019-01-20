@@ -14,6 +14,7 @@
    roum.event
    roum.plugin
    roum.logging
+   roum.constants
 
    roum.command
    roum.command.help
@@ -39,6 +40,7 @@
    roum.util
    roum.util.cache
    roum.util.serializer
+   roum.util.time
 
    roum.error
    roum.version
