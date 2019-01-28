@@ -37,10 +37,13 @@
    roum.model.entity
    roum.model.component
 
+   net.packet/roum.net.packet.auth
+
    roum.util
    roum.util.cache
    roum.util.serializer
    roum.util.time
+   roum.util.vector
 
    roum.error
    roum.version
