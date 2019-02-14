@@ -42,6 +42,8 @@ Packets
 .. toctree::
    :maxdepth: 1
 
+   packets/packet_startgame
+
    packets/packet_info_server
    packets/packet_info_otherplayers
 
@@ -56,6 +58,8 @@ Packets
 
 .. toctree::
    :maxdepth: 1
+
+   packets/packet_match_init
 
    packets/packet_match_entity_create
    packets/packet_match_entity_remove

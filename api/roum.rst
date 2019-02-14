@@ -38,6 +38,9 @@
    roum.model.component
 
    net.packet/roum.net.packet.auth
+   net.packet/roum.net.packet.lobby.startgame
+   net.packet/roum.net.packet.match.init
+   net.packet/roum.net.packet.match.statusupdate
 
    roum.util
    roum.util.cache

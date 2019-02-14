@@ -14,6 +14,8 @@ Packets
 .. toctree::
    :maxdepth: 1
 
+   packet_match_init
+
    packet_match_status_update
    packet_match_synchronise_time
 
